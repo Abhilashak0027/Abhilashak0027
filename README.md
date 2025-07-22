@@ -1,16 +1,62 @@
-## Hi there 👋
+#HY!!!
+# 👩‍💻 Abhilasha Kumari
 
-<!--
-**Abhilashak0027/Abhilashak0027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://avatars.githubusercontent.com/Abhilashak0027)
 
-Here are some ideas to get you started:
+🎓 Computer Science Graduate | 💻 Python & SQL Developer | 📊 Data Analyst | 🧠 Lifelong Learner  
+📍 India | 📧 abhilashaku4@gmail.com   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I’m a Computer Science graduate open to opportunities as a **Python Developer**, **SQL Developer**, **Software Developer**, or **Data Analyst**.
+
+I love working with data, writing backend logic, building command-line applications, and creating dashboards that turn raw data into insights. With hands-on experience in Python, SQL, Power BI, and databases, I aim to build efficient, clean, and real-world solutions.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, SQL, C++
+- **Databases:** SQLite, PostgreSQL
+- **Libraries:** Pandas, NumPy
+- **Tools:** Power BI, Git, Jupyter Notebook, VS Code
+
+---
+
+## 📚 Certifications
+
+- 🎓 Data Science – Daksh Gurukul, IIT Guwahati (Ongoing)  
+- 🏆 SQL (Basic & Intermediate) – HackerRank  
+- 📊 Introduction to Power BI – Alison  
+- 🔍 Deloitte Australia – Forensic Tech Virtual Internship  
+
+---
+
+## 📂 Projects
+
+### 🏧 [ATM Simulation System](https://github.com/Abhilashak0027/ATM-Simulation)
+Built a secure CLI-based ATM simulator in Python. Includes PIN-based login, deposit/withdraw functions, transaction tracking, and JSON data storage with user-friendly terminal UI.
+
+### 📊 [Zepto Sales Dashboard (Power BI)](https://github.com/Abhilashak0027/Zepto-Sales-Dashboard)
+Interactive Power BI dashboard to analyze sales KPIs. Applied data cleaning, dynamic visualizations, and business metric analysis for actionable insights.
+
+### 🧑‍🎓 [Student Feedback Tracker (Python + SQLite)](https://github.com/Abhilashak0027/Student-Performance-Tracker)
+Python project using SQLite to manage student data, calculate academic performance, and auto-generate feedback based on logic and conditions.
+
+### 🧮 [Algorithm Visualizer (Python)](https://github.com/Abhilashak0027/Algorithm-Visualizer)
+Basic visual tool for understanding sorting/search algorithms via command line. Helps demonstrate algorithm behavior in a simple educational format.
+
+---
+
+## 📎 Resume & Contact
+
+📄 [Resume (PDF)](https://github.com/Abhilashak0027/resume.pdf)  
+📧 Email: abhilashaku4@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhilasha-kumari-925298260)  
+💻 [GitHub](https://github.com/Abhilashak0027)
+
+---
+
+_Actively seeking Software/Python/SQL/Data Analyst roles — let’s connect!_
