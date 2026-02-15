@@ -18,10 +18,15 @@ I love working with data, writing backend logic, building command-line applicati
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, SQL, C++
-- **Databases:** SQLite, PostgreSQL
-- **Libraries:** Pandas, NumPy
-- **Tools:** Power BI, Git, Jupyter Notebook, VS Code
+-**Languages**: Python, SQL, C++
+
+-**Databases**: SQLite, PostgreSQL
+
+-**Libraries**: Pandas, NumPy
+
+-**Machine Learning**: Supervised Learning, Logistic Regression, Linear Discriminant Analysis (LDA)
+
+-**Tools**: Power BI, Git, Jupyter Notebook, VS Code
 
 ---
 
@@ -36,8 +41,8 @@ I love working with data, writing backend logic, building command-line applicati
 
 ## 📂 Projects
 
-### 🏧 [ATM Simulation System](https://github.com/Abhilashak0027/ATM-Simulation)
-Built a secure CLI-based ATM simulator in Python. Includes PIN-based login, deposit/withdraw functions, transaction tracking, and JSON data storage with user-friendly terminal UI.
+### 🩺Diabetes Prediction (ML Project) 
+Implemented and compared Logistic Regression and LDA models to predict diabetes using real-world medical data, focusing on recall optimization for healthcare applications.
 
 ### 📊 [Zepto Sales Dashboard (Power BI)](https://github.com/Abhilashak0027/Zepto-Sales-Dashboard)
 Interactive Power BI dashboard to analyze sales KPIs. Applied data cleaning, dynamic visualizations, and business metric analysis for actionable insights.
@@ -52,7 +57,7 @@ Basic visual tool for understanding sorting/search algorithms via command line. 
 
 ## 📎 Resume & Contact
 
-📄 [Resume (PDF)](https://github.com/Abhilashak0027/resume.pdf)  
+📄 [Resume (PDF)](https://github.com/Abhilashak0027/resume.pdf) 
 📧 Email: abhilashaku4@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhilasha-kumari-925298260)  
 💻 [GitHub](https://github.com/Abhilashak0027)
