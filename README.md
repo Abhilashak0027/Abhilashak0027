@@ -41,10 +41,10 @@ I love working with data, writing backend logic, building command-line applicati
 
 ## 📂 Projects
 
-### 🩺Diabetes Prediction (ML Project) 
+### 🩺Diabetes Prediction (ML Project)(https://github.com/Abhilashak0027/Diabetes-Prediction-Using-Machine-Learning.git)
 Implemented and compared Logistic Regression and LDA models to predict diabetes using real-world medical data, focusing on recall optimization for healthcare applications.
 
-### 📊 [Zepto Sales Dashboard (Power BI)]https://github.com/Abhilashak0027/Zepto_Sales_Dashboard.git
+### 📊 [Zepto Sales Dashboard (Power BI)](https://github.com/Abhilashak0027/Zepto_Sales_Dashboard.git)
 Interactive Power BI dashboard to analyze sales KPIs. Applied data cleaning, dynamic visualizations, and business metric analysis for actionable insights.
 
 ### 🧑‍🎓 [Student Feedback Tracker (Python + SQLite)]https://github.com/Abhilashak0027/Student-Performance-Tracker
