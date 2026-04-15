@@ -47,7 +47,7 @@ Implemented and compared Logistic Regression and LDA models to predict diabetes 
 ### 📊 [Zepto Sales Dashboard (Power BI)](https://github.com/Abhilashak0027/Zepto_Sales_Dashboard.git)
 Interactive Power BI dashboard to analyze sales KPIs. Applied data cleaning, dynamic visualizations, and business metric analysis for actionable insights.
 
-### 🧑‍🎓 [Student Feedback Tracker (Python + SQLite)](https://github.com/Abhilashak0027/Student-Performance-Tracker)
+### 🧑‍🎓 [Student Feedback Tracker (Python + SQLite)](https://github.com/Abhilashak0027/student-feedback-system.git)
 Python project using SQLite to manage student data, calculate academic performance, and auto-generate feedback based on logic and conditions.
 
 ### 🧮 [Algorithm Visualizer (Python)](https://github.com/Abhilashak0027/Algorithm-Visualizer)
